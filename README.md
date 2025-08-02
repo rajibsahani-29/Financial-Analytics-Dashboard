@@ -89,4 +89,7 @@ Support benchmarking against financial targets
 
 Help stakeholders identify trends, risks, and opportunities
 
+
+-------------------------------------------------------------------------------------------
+
 <img src="https://github.com/rajibsahani-29/Financial-Analytics-Dashboard/blob/main/Financial-Analytics-Dashboard.png" alt="Image" width="500" height="520">
